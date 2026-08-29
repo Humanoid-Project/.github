@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | Actuated joints | 12 |
-| Actuators | RS03 ×6 · RS02 ×6 |
+| Actuators | Robstride-03 ×6 · Robstride-02 ×6 |
 | IMU | Wheeltec N100 |
 | Mass | 20.51 kg |
 
