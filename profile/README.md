@@ -1,6 +1,6 @@
 # RoboNex
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@polygon-1113)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLpm5ZYdAE_yfnK-R67j1tTXFs3jLTdWj7)
 
 ![Status](https://img.shields.io/badge/status-standing--balance-0ea5e9)
 
