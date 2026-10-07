@@ -7,6 +7,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLpm5ZYdAE_yfnK-R67j1tTXFs3jLTdWj7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/robonex_23/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/RoboNex-23)
 
 <table>
     <tbody>
